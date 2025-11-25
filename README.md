@@ -2,7 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=200&section=header&text=HAPPY%20JM&&desc=Front-end%20Engineer&descSize=15&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&descAlignY=55)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAPPY-JM&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAPPY-JM&layout=compact&theme=dracula)
+
 
 </div>
 
